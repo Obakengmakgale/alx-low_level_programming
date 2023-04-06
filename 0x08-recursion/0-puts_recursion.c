@@ -3,7 +3,7 @@
 /**
  * _puts_recursion - function like puts();
  * @s: input
- *Return:Always0(Success) 
+ *Return:Always0(Success)
  */
 
 void _puts_recursion(char *s)
