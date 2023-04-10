@@ -6,7 +6,7 @@
  * @b: it is the desired value
  * @n: it is the number of bytes to be changed
  *
- * returns: changed array with a new value for n bytes
+ * Return: changed array with a new value for n bytes
  */
 
 char *_memset(char *s, char b, unsigned int n)
