@@ -14,11 +14,10 @@ int main(int argc, char **argv)
 	int i;
 	int n;
 	int sum;
-	char *indicate;
 
 	for (i = 1; i < argc; i++)
 	{
-		n = atoi(argv[a], &indicate, 10);
+		n = atoi(argv[i]);
 		sum = sum + n;
 
 		if (*argv[i] < '0')
