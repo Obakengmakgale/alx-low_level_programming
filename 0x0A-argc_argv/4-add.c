@@ -35,5 +35,5 @@ int main(int argc, char **argv)
 	{
 		sum += n;
 	}
-	return(0);
+	return (0);
 }
