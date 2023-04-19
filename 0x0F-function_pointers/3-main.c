@@ -1,6 +1,6 @@
 #include "function_pointers.h"
 #include <stdlib.h>
-#include <stdio.>
+#include <stdio.h>
 #include "3-calc.h"
 
 /**
@@ -11,7 +11,7 @@
  * Return: always 0
  */
 
-int main(int _attribute_((_unused_)) argc, char *argv[])
+int main(int _attribute_...(_unused_) argc; char *argv[])
 
 {
 	int num1, num2;
